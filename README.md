@@ -1,21 +1,29 @@
-# Unity-ARFoundation-echoAR-example
-Example Unity project with AR Foundation and echoAR integrated.
+#### LearnSmart AR for Mobile. Bring learning to life!
+Created by Purnesh, Ritesh, Dominic, and Varshita
 
-Build in Unity version 2019.2 and tested on Unity versions 2020.1, 2019.4, 2018.4.
+Contact us here! https://pastebin.com/6iG0TXt7
 
-## Register
-Don't have an API key? Make sure to register for FREE at [echoAR](https://console.echoar.xyz/#/auth/register).
 
-## Setup
-Follow the instructions on our [documentation page](https://docs.echoar.xyz/unity/adding-ar-capabilities) to [set your API key](https://docs.echoar.xyz/unity/adding-ar-capabilities#3-set-you-api-key).
+## Inspiration
+We were inspired to make textbook learning more tangible and interactive for young kids. It is a proven 2020 study that tech improved kid's ability to grasp and concentrate in learning! We wanted to put that study in action, and decided to use AR to make a fun experience to the regular reading routine
 
-## Run
-* [Add the 3D model](https://docs.echoar.xyz/quickstart/add-a-3d-model) to the console.
-* [Set the API key](https://docs.echoar.xyz/unity/using-the-sdk) in the `echoAR.cs` script inside the `echoAR\echoAR.prefab` using the the Inspector.
-* [Build and run the AR application](https://docs.echoar.xyz/unity/adding-ar-capabilities#4-build-and-run-the-ar-application).
+## What it does
+Our App uses EchoAR to produce models and cast it on top of textbooks. Our goal is to make it easy to quickly use a phone to scan images and show fully tangible 3d models in AR.
 
-## Learn more
-Refer to our [documentation](https://docs.echoar.xyz/unity/) to learn more about how to use Unity and echoAR.
+## How we built it
+We used EchoAR to render models and practice AR within Unity. The SDK was beneficial to creating an easy cloud-based environment for our models!
+We then used the Unity framework to create a User Interface and put our models on display!
 
-## Support
-Feel free to reach out at [support@echoAR.xyz](mailto:support@echoAR.xyz) or join our [support channel on Slack](https://join.slack.com/t/echoar/shared_invite/enQtNTg4NjI5NjM3OTc1LWU1M2M2MTNlNTM3NGY1YTUxYmY3ZDNjNTc3YjA5M2QyNGZiOTgzMjVmZWZmZmFjNGJjYTcxZjhhNzk3YjNhNjE).
+## Challenges we ran into
+Unfortunately, with the lack of time and resources, we were unable to get our scanner to function within Unity. Given some time, we hope to continue the hack and create an application with all capabilities needed for our vision!
+
+## Accomplishments that we're proud of
+We were able to make due with our errors and still get a working .apk for the program! We also love the time and effort used in creating our designs and concepts, which we think will be beneficial to the future of education
+
+## What we learned
+We learned a lot about how to use Augmented Reality plugins in Unity, and got a close familiarity to EchoAR and 
+
+## What's next for Learn Smart AR
+Create a standalone application with resources to help kids and classes better understand Anatomy, Astronomy, and beyond!
+
+Thank you so much for the opportunity to participate in SigmaHacks3, it was a great learning experience and a moment to learn important teamwork!
