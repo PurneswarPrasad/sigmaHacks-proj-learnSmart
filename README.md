@@ -1,5 +1,5 @@
 #### LearnSmart AR for Mobile. Bring learning to life!
-Created by Purnesh, Ritesh, Dominic, and Varshita
+Created by Purneswar, Ritesh, Dominic, and Varshita
 
 Contact us here! https://pastebin.com/6iG0TXt7
 
